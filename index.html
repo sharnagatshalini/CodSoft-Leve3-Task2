@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Project Manager</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="top-bar">
+    <h1>📋 Project Manager</h1>
+    <button id="toggle-theme">🌙</button>
+  </div>
+
+  <div class="container">
+    <form id="project-form">
+      <input type="text" id="project-name" placeholder="Project Name" required />
+      <input type="date" id="project-deadline" required />
+      <button type="submit">➕ Add Project</button>
+    </form>
+
+    <div id="project-list"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
