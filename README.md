@@ -20,8 +20,7 @@ A clean and intuitive **Project Management Tool** built using **HTML, CSS, and J
 
 ## 🔗 Live Demo
 
-👉 https://sharnagatshalini.github.io/CodSoft-Leve3-Task3/
-
+👉 https://sharnagatshalini.github.io/CodSoft-Leve3-Task2/
 ## 📁 Folder Structure
 
 ├── index.html
